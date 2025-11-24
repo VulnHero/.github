@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.vulnhero.com/_next/image?url=%2Fimages%2Fvulnhero%2Flogo.png&w=384&q=75" alt="VulnHero" width="140" />
+  <img src="https://www.vulnhero.com/_next/image?url=%2Fimages%2Fvulnhero%2Flogo.png&w=384&q=75" alt="VulnHero" width="160" />
 </p>
 
 <h1 align="center">VulnHero</h1>
@@ -12,31 +12,47 @@
 
 ## What We Do
 
-VulnHero is an AI-driven offensive security platform that unifies:
+VulnHero is an AI-driven offensive security platform that helps teams cut scanner noise and focus on what’s actually exploitable across their attack surface.
 
-- **VulnHero Platform** – continuous full-stack security testing and exploit-aware risk scoring  
-- **Vuln-Intel** – vulnerability & exploit intelligence with exploitability-first context  
-- **Managed Penetration Testing (PTaaS)** – expert-led testing with continuous retesting  
-- **Subdomain Takeover Protection** – continuous detection of abandoned & hijacked subdomains  
+We unify:
 
-We help security teams cut scanner noise and focus on **what’s actually exploitable** across their attack surface.
+- **VulnHero Platform** – continuous full-stack security testing with exploit-aware risk scoring and validation  
+- **Vuln-Intel** – vulnerability & exploit intelligence with exploitability-first, stack-aware context  
+- **Managed Penetration Testing (PTaaS)** – expert-led testing, continuous retesting and operational reporting  
+- **Subdomain Takeover Protection** – continuous detection of abandoned, misconfigured and hijacked subdomains  
 
 ---
 
-## Useful Links
+## Free Weekly Vuln-Intel Bulletin
+
+Stay ahead of trending CVEs and exploits with a short, no-fluff weekly email:
+
+- Curated critical & exploited CVEs  
+- VulnHero scores and exploitability signals  
+- Quick snapshot you can scan in minutes  
+
+👉 **Subscribe:** https://vulnintel.vulnhero.com/#newsletter
+
+---
+
+## Learn More
 
 - 🌐 Website: https://vulnhero.com  
-- 📊 Vuln-Intel: https://vulnintel.vulnhero.com  
+- 🧠 Vuln-Intel: https://vulnintel.vulnhero.com  
 - 💼 LinkedIn: https://www.linkedin.com/company/vulnhero  
-- 📨 Contact: info@vulnhero.com  
+- 🐦 X (Twitter): https://x.com/vulnhero  
+- 📸 Instagram: https://instagram.com/vulnhero  
+- 👍 Facebook: https://facebook.com/vulnhero  
+- 📬 Contact: info@vulnhero.com  
 
 ---
 
 ## Open Source & Research
 
-We publish:
+In this organisation you’ll find:
 
 - Offensive security & automation tooling  
-- Research artifacts and demo projects around exploit intelligence, attack surface management and autonomous testing  
+- Research artifacts, PoCs and demo projects around exploit intelligence, attack-surface management and autonomous testing  
+- SDKs, integrations and examples for working with VulnHero APIs  
 
-Stay tuned for upcoming repos and announcements.
+⭐️ Watch this org to get updates as we publish new tools and research.
