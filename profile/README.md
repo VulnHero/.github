@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vulnhero.com/logo-dark.svg" alt="VulnHero" width="140" />
+  <img src="https://www.vulnhero.com/_next/image?url=%2Fimages%2Fvulnhero%2Flogo.png&w=384&q=75" alt="VulnHero" width="140" />
 </p>
 
 <h1 align="center">VulnHero</h1>
