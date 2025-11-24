@@ -22,19 +22,26 @@ We unify:
 - **VulnHero Platform** – continuous full-stack security testing with exploit-aware risk scoring and validation  
 - **Vuln-Intel** – vulnerability & exploit intelligence with exploitability-first, stack-aware context  
 - **Managed Penetration Testing (PTaaS)** – expert-led testing, continuous retesting and operational reporting  
-- **Subdomain Takeover Protection** – continuous detection of abandoned, misconfigured and hijacked subdomains  
+- **Subdomain Takeover Protection** – continuous detection of abandoned, misconfigured, and hijacked subdomains  
 
 ---
 
-## Free Weekly Vuln-Intel Bulletin
+## Vuln-Intel & Free Weekly Bulletin
 
-Stay ahead of trending CVEs and exploits with a short, no-fluff weekly email:
+Want exploit-aware CVE intelligence instead of endless CVE lists?
 
-- Curated critical & exploited CVEs  
-- VulnHero scores and exploitability signals  
-- Quick snapshot you can scan in minutes  
+With **Vuln-Intel** you can:
 
-👉 **Subscribe:** https://vulnintel.vulnhero.com/#newsletter
+- Map CVEs to your actual tech stack, assets, and exposed services  
+- See exploitability signals and live PoC / threat actor activity  
+- Cut CVE noise down to a short, prioritized list you can act on  
+
+You can use it in two ways:
+
+- 🔍 **Live platform & API:** exploit-aware CVE intelligence with flexible plans  
+  👉 https://vulnintel.vulnhero.com  
+- 📬 **Free Weekly Vuln-Intel Bulletin:** curated critical & exploited CVEs, VulnHero scores and exploitability signals in a short, no-fluff email  
+  👉 https://vulnintel.vulnhero.com/#newsletter  
 
 ---
 
@@ -52,10 +59,19 @@ Stay ahead of trending CVEs and exploits with a short, no-fluff weekly email:
 
 ## Open Source & Research
 
-In this organisation you’ll find:
+In this organisation, you’ll find:
 
 - Offensive security & automation tooling  
-- Research artifacts, PoCs and demo projects around exploit intelligence, attack-surface management and autonomous testing  
-- SDKs, integrations and examples for working with VulnHero APIs  
+- Research artifacts, PoCs, and demo projects around exploit intelligence, attack-surface management, and autonomous testing  
+- SDKs, integrations, and examples for working with VulnHero APIs  
 
 ⭐️ Watch this org to get updates as we publish new tools and research.
+
+---
+
+## Need Expert Security Consulting?
+
+If you need hands-on **penetration testing, secure SDLC and AppSec training** alongside VulnHero:
+
+- Our sister company **Siber Ninja** provides offensive security consulting and enablement services.  
+- 🔗 https://siberninja.com
